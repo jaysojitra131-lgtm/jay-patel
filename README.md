@@ -99,4 +99,76 @@ Teamwork : Instead of emailing files back and forth, teams can use git to work o
               - Read company news.
               - Access work files. 
 
+
+# PAGE : 5 :
+
+# What is the ram :
+    - Ram stands for Random Access Memory.
+    - It is a type of computer memory that temporarily store data and prodrams your device is currently using.
+
+# Simple explanation :
+      - Think of ram as your computer's short-tern memory.
+      - It holds the information your system needs right now.
+      - When you turn off the device,everything in ram is cleared.
+
+# Why ram is important :
+    - More RAM = Your device can handle mmore apps at once.
+    - It helps with speed and multita sking.
+    - Low ram can make your computer or phone slow or laggy.
+
+
+
+# PAGE: 6 :
+
+# What is the Rom?
+       - ROM stands for Read only Memory.
+       - It is a type of memory that stores important data permanetly in a computer or mobile device.
+
+# Simple explantion :
+       - Rom keeps data even when the  device is turned off.
+       - It stores essential instructions needed to start the device.
+       - Unlike RAM,ROM data is not usually changed often.
+       
+# What ROM does :
+  - Rom Contains :
+                   - Boot instructions
+                   - Firmware
+                   - System startup programes
+
+  - For example, when you turn on your phone or computer, rom helps the sustem start properly.
+
+# Difference between RAM and ROM :
+
+        RAM                                               ROM 
+- Temporary memory                                 - Permanent memory 
+- Data removed after power off                     - Data stayns after power off 
+- Used while appsrun                               - Used for startup instructions 
+                                                   - Slower than RAM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           
