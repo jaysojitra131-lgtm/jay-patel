@@ -146,7 +146,36 @@ Teamwork : Instead of emailing files back and forth, teams can use git to work o
                                                    - Slower than RAM
 
 
+# PAGE : 7
 
+# What is the graphic card ?
+    - A graphic card ( also called a GPV = Graphic Processing Unit.) is a hardware component that processes and dispalys images,videos and games on a computer sereen.
+
+# Simple explanation :
+   - The graphic card creates the visuals you see on the monitor.
+   - It helps in :
+     - Gaming
+     - Video editing
+     - 3D design
+     - Animation
+     - AI and mining work
+
+# Types of graphics cards :
+   1.Integrated Graphics
+     - Built inside the processor
+     - Good for normal work and videos
+
+   2.Dedicated graphic card
+     - Separate powerful hardware
+     - better for gaming and heavy tasks 
+
+# Examples of graphic cards :
+  - NVIDIA GoForce RTX 4060
+  - AMD Radeon RX 7600
+
+# Easy example :
+  - CPU = Brain of the computer
+  - GPU/Graphic card = Artist that draws images and graphics.
 
 
 
