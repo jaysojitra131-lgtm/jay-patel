@@ -145,6 +145,42 @@ Teamwork : Instead of emailing files back and forth, teams can use git to work o
 - Used while appsrun                               - Used for startup instructions 
                                                    - Slower than RAM
 
+# Type of Ram :
+  1.SRAM ( Static RAM ) 
+    - Faster and more expensive
+    - does not need refreshing
+    - Used in CPU cache memory
+
+  2.DRAM ( Dynamic RAM ) 
+    - Slower but cheaper
+    - Needs constant refreshing
+    - used as main system memory in computers
+
+   # Common DRAM Tyeps:
+     - SDRAM (Synchronous DRAM)
+     - DDR SDRAM (Double Data Rate)
+       - DDR
+       - DDR2
+       - DDR3
+       - DDR4
+       - DDR5 (Latest common type)
+
+   3.VARAM (Video RAM)
+     - Used in graphics cards 
+     - Handles image and video data
+
+   4.GDDR (Graphics DDR)
+      - Specilized VRAM for GPUs
+      - Example: GDDR5,GDDR6,GDDR6X
+
+   5.LPDDR (Low Power DDR)
+     - Designed for mobils and laptops
+     - Eamples: LPDDR4,LPDDR5
+
+   6.RDRAM (Rambus DRAM)
+     - Older high-speed RAM technology
+     - Rarely used today
+
 
 # PAGE : 7
 
@@ -178,7 +214,9 @@ Teamwork : Instead of emailing files back and forth, teams can use git to work o
   - GPU/Graphic card = Artist that draws images and graphics.
 
 
+# PAGE : 8 
 
+    
 
 
 
